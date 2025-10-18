@@ -111,8 +111,8 @@ export default function Index() {
       <nav className="border-b border-border/50 backdrop-blur-sm bg-black/30 sticky top-0 z-50">
         <div className="container mx-auto px-4 py-4">
           <div className="flex items-center justify-between">
-            <h1 className="text-2xl md:text-3xl font-display font-bold text-primary animate-fade-in">
-              Александра Волкова
+            <h1 className="text-3xl md:text-4xl font-brand text-primary animate-fade-in">
+              Yan Demong
             </h1>
             <div className="flex gap-2 md:gap-4 animate-fade-in-delay">
               <Button 
@@ -330,7 +330,7 @@ export default function Index() {
       <footer className="border-t border-border/50 mt-20 backdrop-blur-sm bg-black/30">
         <div className="container mx-auto px-4 py-8 text-center">
           <p className="text-muted-foreground">
-            © 2024 Александра Волкова. Все права защищены.
+            © 2024 Yan Demong. Все права защищены.
           </p>
         </div>
       </footer>
